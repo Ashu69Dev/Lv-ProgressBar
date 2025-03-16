@@ -3,7 +3,7 @@
 
 A dynamic, customizable progress bar for FiveM/QBCore. Perfect for immersive roleplay interactions!  
 
-![Progress Bar Demo](https://via.placeholder.com/800x400.png?text=Progress+Bar+Demo+GIF)  
+![Progress Bar Demo](https://media.discordapp.net/attachments/1350188529954852944/1350188530399187025/Screenshot_144.png?ex=67d7cece&is=67d67d4e&hm=78df88e66953bcc40ccfde79d7121dceff97c9b942bae2baac3ad6ebe09ecedc&=&format=webp&quality=lossless&width=982&height=552)  
 
 ## ✨ **Features**    
 - **Step Visualization**: Dynamic steps fill up as progress advances.  
